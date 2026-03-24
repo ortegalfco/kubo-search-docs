@@ -33,10 +33,12 @@ Examples:
 ---
 
 ## 3. Collection Naming
+### 3.1 Recommended format
+
+<company>_<platform>_<entity>
 
 ### Format
 <company><platform><entity>
-
 
 ### Examples
 - kubo_search_products
